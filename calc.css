@@ -1,0 +1,271 @@
+body,
+html{
+  background-color: #D0D0D0;
+}
+
+.row1font {
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #888888;
+  color: ;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+.main1 {
+  position: absolute;
+  width: 280px;
+  height: 400px;
+  background-color: #000;
+  border-color: black;
+  border-radius: 10px;
+  font-size: 20px;
+  top: 100px;
+  left: 400px;
+  right: 400px;
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #333;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Sans";
+}
+
+#display { 
+  position: absolute;
+  width: 280px;
+  left: 400px;
+  top: 140px;
+  text-align: right;
+  font-size:30px; padding: 0px; border-width:2px; border-radius:10px; border-style:solid; border-color:#FFF; background-color: #55AA00; text-shadow:0px 0px 0px rgba(42,42,42,.75); font-family:computerfont; font-weight:bold; font-style:none;  } 
+		 .searchStyle:focus { outline:none; }
+
+#ac {
+  position: absolute;
+  background-color: #900;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 190px;
+  height: 50px;
+  top: 190px;
+  left: 400px;
+}
+
+#divide {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 190px;
+  left: 620px;
+}
+
+#seven {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 250px;
+  left: 400px;
+}
+
+#eight {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 250px;
+  left: 470px;
+}
+
+#nine {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 250px;
+  left: 540px;
+}
+
+#multiply {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 250px;
+  left: 620px;
+}
+
+#four {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 310px;
+  left: 400px;
+}
+
+#five {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 310px;
+  left: 470px;
+}
+
+#six {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 310px;
+  left: 540px;
+}
+
+#subtract {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 310px;
+  left: 620px;
+}
+
+#one {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 370px;
+  left: 400px;
+}
+
+#two {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 370px;
+  left: 470px;
+}
+
+#three {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 370px;
+  left: 540px;
+}
+
+#add {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 370px;
+  left: 620px;
+}
+
+#zero {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 440px;
+  left: 400px;
+}
+
+#decimal {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 50px;
+  height: 50px;
+  top: 440px;
+  left: 470px;
+}
+
+#equal {
+  position: absolute;
+  background-color: grey;
+  border-color: black;
+  box-shadow: 2px 2px 5px #333;
+  width: 130px;
+  height: 50px;
+  top: 440px;
+  left: 540px;
+}
+
+.copyright {
+  position: fixed;
+  bottom: 0px;
+  left: 200px;
+  text-align: center;
+  }
+
+.row6font {
+  color: black;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+.icon2 {
+  margin-right: 20px;
+  width: 50px;
+  }
+
+#random {
+  position: absolute;
+  top: 15px;
+  left: 610px;
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  color: ;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-family: "Sans";
+}
+
+#search {
+  postion: absolute;
+  width: 400px;
+}
+
+#searchIcon {
+  width: 40px;
+}
